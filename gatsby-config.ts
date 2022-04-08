@@ -9,6 +9,7 @@ const config: GatsbyConfig = {
     "gatsby-plugin-sass", 
     "gatsby-plugin-mdx", 
     "gatsby-plugin-image",
+    "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     {
       resolve: 'gatsby-source-filesystem',
